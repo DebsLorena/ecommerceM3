@@ -1,79 +1,60 @@
-# Venha ser um desenvolvedor da Digital M3
 
-Ola, somos a Agência Digital M3, uma agência voltada para ramo de comercio eletrônico, trabalhamos com implantação, migração, evolução e otmização de e-commerces. Estamos com a sede de desenvolvimento em Nova Friburgo RJ. Mas contratamos pessoas de todo o pais, visto que trabalhamos 100% home office.  
-> R. Helena Coutinho, 41 
-> Braunes, Nova Friburgo/RJ
-[https://goo.gl/maps/2mWagcctnrGdtFhBA]( https://goo.gl/maps/2mWagcctnrGdtFhBA )
+<div align="center">
+<h1>Project Ecommerce M3</h1>
+</div>
+<hr>
 
-Estamos procurando Desenvolvedores(as) `Front-end`, com sólidos conhecimentos em HTML, CSS e JS para projetar interfaces e entregar a melhor experiência para os consumidores visando sempre a otimização do código e agilidade no desenvolvimento.
-
-## O que procuramos
-
-### Requisitos Obrigatórios
-
-- Html5, css3;
-- Javascript;
-- Consumo de APIs.
-- Versionamento Git;
-- Grunt/gulp;
-- Sass/less;
-- Sites responsivos;
-- Iniciativa, criatividade e colaboração;
-- Boas práticas: reutilização de código, semântica, organização, performance.
-
-### Desejáveis:
-
-- Experiência com algum CMS
-- Conhecimento/Experiência em Vtex
-- Nodejs
-- Typescript
-- React
-
-----
-
-## Como se candidatar a vaga
-
-- [Crie um fork desse projeto;](https://github.com/agenciam3/Desenvolvedor-M3/fork)
-- No seu fork, codifique o layout seguindo as instruções abaixo;
-- Atualize o readme com as instruções necessárias para rodar o seu código;
-- Adicione também seu e-mail de contato ao readme do projeto ( caso seu e-mail do github esteja privado )
-- envie para [heraldo@digitalm3.com.br](mailto:heraldo@digitalm3.com.br?subject=Vaga%20DEV%20-%20Digital%20M3)
+### :memo:Tópicos 
 
 
-**obs.**: link do projeto [github.com/agenciam3/Desenvolvedor-M3](https://github.com/agenciam3/Desenvolvedor-M3)
+* **Descrição do projeto**
 
-### Instruções para o teste
+> Ecommerce M3, projeto desenvolvido para demonstrar os meus conhecimentos em frontend. Replica de interface [figma](https://www.figma.com/file/hPfcV6VClVfkHCtje9997Q/Desafio-m3?node-id=0%3A1).
 
-O layout se encontra no [figma](https://www.figma.com/file/hPfcV6VClVfkHCtje9997Q/Desafio-m3?node-id=0%3A1) e pode ser encontrado images dele em "layout".
+<br> 
 
-### Dependencias
+* **Funcionalidades obrigatórias**
 
-O projeto possui um setup pronto no qual há a necessidade de possuir o nodejs instalado na versão 14 ou superior.
+> * Requisição de Api.
+> * Filtrar produtos por cor, tamanho e preço.
+> * Adicionar produto ao carrinho.
+> * Carregar mais produtos.
+> * Responsividade.
 
-Para instalar as dependencias só é preciso executar o comando: `npm install`
+<br> 
 
-O dar start no server e nos processos para desenvolvimento é necessário rodar o comando: `npm start `
+* **Funcionalidades bônus**
 
-Uma ver que o comando é dado ele irá levantar 2 servidores, sendo eles:
- - um para acessar o front-end que roda na porta 3000. No qual pode ser acessado pela url: http://localhost:3000
- - um para o json-server que irá export uma api com a lista de produtos que roda na porta 5000. Para acessar os produtos é na url:  http://localhost:5000/products
+> * Javascript sem plugins e modular.
+> * Adição de processo no gulp para otimizar imagens.
 
-### Objetivo
+<br> 
 
-O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front end, por isso pedimos que não utilize nenhum framework, porem caso deseje utilizar frameworks como react, é possivel adicionar ao setup.
-### Obrigatório
+* **Ferramentas utilizadas**: 
 
-- HTML5 e CSS3
-- Requisição a API para obter os produtos
-- Funcionalidade: Filtrar produtos por cor, tamanho e preço.
-- Funcionalidade: Adicionar produto ao carrinho.
-- Funcionalidade: Carregar mais produtos.
-- Não utilizar Bootstrap, Foundation Css, Semantic ui ou semelhantes ;
-- Responsividade
+> #### 🎨 Frontend
+>
+> * :hammer: Em contrução
+> * Visual Studio Code
+> * ReactJS
+> * CSS3
 
-#### Bônus
+<br> 
 
-- Javascript sem plugins e modular
-- Adição de processo no gulp para otimizar imagens
+* **Desenvolvedora**
 
-##### Dúvidas: [heraldo@digitalm3.com.br](mailto:heraldo@digitalm3.com.br?subject=Dúvida%20Vaga%20DEV%20-%20Digital%20M3)
+> * Lorena Debs
+> * Email: debsrlorena@gmail.com
+> * Telefone/Whatsapp: 34 991076560 - 61 983434026
+
+<hr>
+
+
+* ### Start - Inicie o projeto: 
+
+> * :hammer: Em contrução
+
+
+<hr>
+
+
