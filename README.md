@@ -34,10 +34,9 @@
 
 > #### 🎨 Frontend
 >
-> * :hammer: Em contrução
 > * Visual Studio Code
 > * ReactJS
-> * CSS3
+> * Styled-components
 
 <br> 
 
@@ -52,8 +51,10 @@
 
 * ### Start - Inicie o projeto: 
 
-> * :hammer: Em contrução
-
+> * Clone o repositório em > Code > HTTPS > Copiar
+> * Em seu terminal: git clone https...
+> * Instale as dependências npm i
+> * Inicie o app npm start em http://localhost:3000
 
 <hr>
 
